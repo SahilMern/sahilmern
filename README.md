@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Next-js, GSAP,**
 
-- 👨‍💻 All of my projects are available at [https://sahilyadav-pi.vercel.app/](https://sahilyadav-pi.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://sahilyadav-pi.vercel.app/](https://sahilyadav-pi.vercel.app/) (this is under maintenance)
 
-- 📝 I regularly write articles on [https://sahilyadav-pi.vercel.app/](https://sahilyadav-pi.vercel.app/)
+- 📝 I regularly write articles on [https://sahilyadav-pi.vercel.app/](https://sahilyadav-pi.vercel.app/) (this is under maintenance)
 
 - 💬 Ask me about **mern stack**
 
