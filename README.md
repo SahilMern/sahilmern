@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Yadav</h1>
-<h3 align="center">A dedicated Front-End Developer with 2 years of experience building web applications</h3>
+<h3 align="center">A dedicated full stack Developer with 2 years of experience building web applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilmern&label=Profile%20views&color=0e75b6&style=flat" alt="sahilmern" /> </p>
 
