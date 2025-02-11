@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilmern&label=Profile%20views&color=0e75b6&style=flat" alt="sahilmern" /> </p>
 
-- 🌱 I’m currently learning **Next-js, GSAP,**
+- 🌱 I’m currently learning **Nest Js, Prisma, postgresql, Next-js, GSAP,**
 
 - 💬 Ask me about **mern stack**
 
