@@ -16,8 +16,6 @@
 
 <h1 align="left" style="font-size: 36px; color: #FF5733; font-weight: bold;">Languages and Tools:</h1>
 
-<!-- Frontend Section -->
-<h3 style="color: #4CAF50; font-size: 28px; font-weight: bold;">Frontend:</h3>
 <p align="left">
     <!-- HTML -->
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -59,11 +57,6 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
     </a>
-</p>
-
-<!-- Backend Section -->
-<h3 style="color: #FF5733; font-size: 28px; font-weight: bold;">Backend:</h3>
-<p align="left">
     <!-- Node.js -->
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
@@ -76,11 +69,6 @@
     <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/prisma/prisma-icon.svg" alt="prisma" width="40" height="40" />
     </a>
-</p>
-
-<!-- Database Section -->
-<h3 style="color: #2196F3; font-size: 28px; font-weight: bold;">Database:</h3>
-<p align="left">
     <!-- MongoDB -->
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
@@ -89,12 +77,6 @@
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
     </a>
-</p>
-
-<!-- Other Section -->
-<h3 style="color: #9C27B0; font-size: 28px; font-weight: bold;">Other:</h3>
-<p align="left">
-
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilmern&show_icons=true&locale=en&layout=compact" alt="sahilmern" /></p>
