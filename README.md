@@ -41,14 +41,6 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
     </a>
-    <!-- Sass -->
-    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-        <img src="https://i0.wp.com/techprimelab.com/wp-content/uploads/2020/06/SCSS-or-CSS.jpg?fit=1024%2C576&ssl=1" alt="sass" width="40" height="40" />
-    </a>
-    <!-- Framer Motion -->
-    <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
-        <img src="https://images.seeklogo.com/logo-png/44/2/framer-motion-logo-png_seeklogo-446185.png" alt="framer" width="40" height="40" />
-    </a>
     <!-- Redux -->
     <a href="https://redux.js.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
@@ -67,7 +59,7 @@
     </a>
     <!-- Prisma -->
     <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/prisma/prisma-icon.svg" alt="prisma" width="40" height="40" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj0DXohByOqRj-lVP39t6tKipyAiT18XL6fw&s" alt="prisma" width="40" height="40" />
     </a>
     <!-- MongoDB -->
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -76,6 +68,14 @@
     <!-- PostgreSQL -->
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
+    </a>
+        <!-- Sass -->
+    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+        <img src="https://i0.wp.com/techprimelab.com/wp-content/uploads/2020/06/SCSS-or-CSS.jpg?fit=1024%2C576&ssl=1" alt="sass" width="40" height="40" />
+    </a>
+    <!-- Framer Motion -->
+    <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIupS77pfeb0lMELTbzZp0AcHW4L6feszN0A&s" alt="framer" width="40" height="40" />
     </a>
 </p>
 
